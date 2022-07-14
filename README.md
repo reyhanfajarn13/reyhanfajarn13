@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Cyber Physical Laboratory Telkom University<br><br>🌱 I’m currently learning Node.js,Express.js, Data Analytics Tools (Pandas, Matplotlib, Seaborn, SQL)<br><br>📫 How to reach me reyhanfajarn13@gmail.com<br><br>📄 Know about my experiences https://www.linkedin.com/in/reyhanfajarn13/<br><br>⚡ Fun fact I am a little bit an intorvert outside but actually there are a lot of topics to talk inside<br>
+🔭 I’m currently working on Cyber Physical Laboratory System Telkom University<br><br>🌱 I’m currently learning Node.js,Express.js, Data Analytics Tools (Pandas, Matplotlib, Seaborn, SQL)<br><br>📫 How to reach me reyhanfajarn13@gmail.com<br><br>📄 Know about my experiences https://www.linkedin.com/in/reyhanfajarn13/<br><br>⚡ Fun fact I am a little bit an intorvert outside but actually there are a lot of topics to talk inside<br>
 
 
 ## 🌐 Socials:
